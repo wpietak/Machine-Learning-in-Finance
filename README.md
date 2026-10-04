@@ -6,6 +6,18 @@ This repository includes several independent projects involving applications of 
 
 The project involves the most typical classification problem in banking - prediction of whether a client defaults if granted a loan, based on his current financial characteristics and past behavior. The project is still being developed.
 
+Project involves:
+- Data quality assessment
+  - sanity checks
+  - outlier detection
+  - "staleness" analysis
+- Exploratory Data Analysis (EDA)
+  - distribution analysis
+- Feature engineering
+- Prediction models
+  - Logistic Regression
+- Performance analysis
+
 The following files are related to this project:
 - [Credit_Scoring_Model.ipynb](/Credit_Scoring_Model.ipynb) - Jupyter notebook containing all the codes
 
