@@ -38,5 +38,5 @@ First, two classification models are developed for each client - Logistic Regres
 Next, clustering using k-means algorithm is applied on the data in order to classify the clients based on their propensity to accept or refuse the deal depending on the offered bid-ask spread.
 
 The following files are related to this project:
-- [Analysis_of_the_Broker-Dealer's_Trading_Dataset.ipynb](/Analysis_of_the_Broker-Dealer's_Trading_Dataset.ipynb) - Jupyter notebook containing all the codes
+- [Deal_Outcome_Prediction_in_Quote-Driven_Market.ipynb](/Deal_Outcome_Prediction_in_Quote-Driven_Market.ipynb) - Jupyter notebook containing all the codes
 - [trading_data.csv](/trading_data.csv) - the dataset used for the analysis
