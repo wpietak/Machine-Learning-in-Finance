@@ -31,7 +31,7 @@ The following files are related to this project:
 
 ### **Prediction of Deal Outcome in a Quote-Driven Market**
 
-This project presents an analysis of the data concerning offers made by a broker-dealer to different clients and their outcome. It includes midprice of a given security, ID of a client making inquiry, indication whether he intends to buy or sell, price offered by a broker-dealer, and the outcome of the deal (whether it was accepted or not).
+This project presents an analysis of the data concerning offers made by a dealer to different clients and their outcome. It includes midprice of a given security, ID of a client making inquiry, indication whether he intends to buy or sell, price offered by the dealer, and the outcome of the deal (whether it was accepted or not).
 
 First, two classification models are developed for each client - Logistic Regression and Linear Support Vector Machine (SVM). The data is divided into the training set and test set. The models are trained on the former, and their performance is assessed on the latter.
 
